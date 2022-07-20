@@ -4,7 +4,7 @@
 
 https://fascinating-marshmallow-bab966.netlify.app/
 ## PROJECT PREVIEW
-![Design preview for the project](https://github.com/eStoreLabs/RC---220309-SF-08-No-Spa-Melissa/blob/main/sage-halva-8a2fa8.netlify.app_.png)
+![Design preview for the project](https://github.com/eStoreLabs/-RC---220309-SF-08-Novanoc-Melissa/blob/main/fascinating-marshmallow-bab966.netlify.app_.png)
 
 ## CONTACT PERSON
 Laura Chaberska
